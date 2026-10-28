@@ -1,0 +1,8 @@
+{
+  "name": "guess-battle",
+  "version": "1.0.0",
+  "description": "Realtime four-hint guessing game for friends or AI",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
